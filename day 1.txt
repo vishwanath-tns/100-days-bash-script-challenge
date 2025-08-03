@@ -1,0 +1,34 @@
+🟩 Day 1: Introduction to Terminal & Basic Linux Commands
+🎯 Goal: Get comfortable with navigating your system using the command line.
+✅ Tasks for Today
+
+    Open your terminal
+
+        Since you're on Windows and have WSL installed, click on “Ubuntu” to open the terminal.
+
+    Learn and try these commands:
+
+Command	Description
+pwd	Print current directory
+ls	List files in the current directory
+cd foldername	Change directory to foldername
+cd ..	Go back one directory
+mkdir myfolder	Create a new folder named myfolder
+touch file.txt	Create an empty file named file.txt
+rm file.txt	Delete file.txt
+rmdir myfolder	Delete empty folder myfolder
+
+    Mini Challenge:
+    ✅ Create a folder named day1,
+    ✅ Navigate into it,
+    ✅ Create 3 text files: notes.txt, todo.txt, summary.txt,
+    ✅ List the contents,
+    ✅ Delete summary.txt.
+
+🧠 Concepts You’ve Learned
+
+    Navigating directories
+
+    Creating and deleting files and folders
+
+    Using pwd, ls, cd, mkdir, touch, rm
